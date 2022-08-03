@@ -1,5 +1,11 @@
 <h1 align='center'>Tugas Akhir S1 Teknik Fisika UGM</h1>
 
+## Introduction
+
+Topik Penelitian: Pengaruh Jari-jari dan Luas Reflektor Cekung terhadap Intensitas Ultraviolet <br>
+Dosen Pembimbing 1: Prof. Dr. Ir. Agus Budhie Wijatna, M.Si., IPM. <br>
+Dosen Pembimbing 2: Dr. Nur Abdillah Siddiq, S.T. <br>
+
 ## File Descriptions
 <br>
     
