@@ -7,7 +7,6 @@ Dosen Pembimbing 1: Prof. Dr. Ir. Agus Budhie Wijatna, M.Si., IPM. <br>
 Dosen Pembimbing 2: Dr. Nur Abdillah Siddiq, S.T. <br>
 
 ## File Descriptions
-<br>
     
 * <strong>[ Data Penelitian TA ](https://github.com/RizqiSeijuuro/Tugas-Akhir-S1/tree/main/Data%20Penelitian%20TA)</strong>: Folder berisi semua data hasil eksperimen
     * <strong>KalibrasiDenganMatahari.csv</strong>: data pengukuran intensitas UV dari Matahari (Uji Kalibrasi)
