@@ -1,5 +1,9 @@
 <h1 align='center'>Tugas Akhir S1 Teknik Fisika UGM</h1>
 
+<p align="center">
+  <img src="https://github.com/RizqiSeijuuro/Tugas-Akhir-S1/blob/main/Logo%20UGM.png" width=600>
+</p>
+
 ## Introduction
 
 Topik Penelitian: Pengaruh Jari-jari dan Luas Reflektor Cekung terhadap Intensitas Ultraviolet <br>
