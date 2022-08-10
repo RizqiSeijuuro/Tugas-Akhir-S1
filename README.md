@@ -37,23 +37,4 @@ Dosen Pembimbing 2: Dr. Nur Abdillah Siddiq, S.T. <br>
 * <strong>[ Analisis RGB pada Tempe dan Tahu.ipynb ](https://github.com/RizqiSeijuuro/Tugas-Akhir-S1/blob/main/Analisis%20RGB%20pada%20Tempe%20dan%20Tahu.ipynb)</strong>: notebook dengan hasil analisis efek UVC terhadap tahu dan tempe sebagai jaringan tisu mirip manusia
 </details>
 
-## Kesimpulan & Saran
 
-<a name="Kesimpulan"></a>
-#### Kesimpulan
-
-- Jari-jari kelengkungan dan luas reflektor memiliki hubungan yang sangat kuat dengan iradiasi yang terukur pada sensor. Koefisien determinasi yang diperoleh untuk variabel jari-jari kelengkungan reflektor dan iradiasi UV adalah 0,97318 dengan persamaan model y = -0.0141x + 0.3004. Sementara itu, koefisien determinasi untuk variabel luas reflektor dan iradiasi UV adalah 0,96230 dengan persamaan model y = 0.0008x- 0.0724.
-- Hasil optimasi jari-jari kelengkungan reflektor menunjukkan bahwa jari-jari kelengkungan 10 cm menunjukkan nilai iradiasi yang paling besar dibanding jari-jari kelengkungan lainnya. Hasil optimasi luas reflektor dengan luas 100π cm2 yang menunjukkan nilai iradiasi yang paling besar.
-- Paparan dari sumber UVC dengan reflektor yang memiliki jari-jari kelengkungan 10 cm dan luas 100π cm2 mampu merusak molekul pada pigmen warna sehingga terjadi efek pemudaran warna pada material tahu dan tempe.
-
-
-</details>
-
-<a name="Saran"></a>
-#### Saran
-
-- Efek paparan sinar UVC sebaiknya dilakukan eksperimen terhadap virus atau bakteri nyata.
-- Instrumen untuk mengukur parameter efek paparan sinar UVC terhadap material tiruan yang mirip jaringan manusia sebaiknya ditambah agar variabel terikat maupun bebas dapat dikuantifikasi secara lebih baik.
-- Penggunaan aluminium sebagai pelapis reflector sebaiknya menggunakan cairan untuk meminimalkan hamburan
-
-</details>
